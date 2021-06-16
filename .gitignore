@@ -1,4 +1,6 @@
 .env
 .pytest_cache
 contacts.egg-info
-__pycache__
+**/__pycache__/*
+.coverage
+*.pyc
