@@ -4,3 +4,4 @@ contacts.egg-info
 **/__pycache__/*
 .coverage
 *.pyc
+.vscode/settings.json
